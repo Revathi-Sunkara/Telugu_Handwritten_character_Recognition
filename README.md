@@ -1,2 +1,2 @@
 # Telugu_Handwritten_character_Recognition
-CT20234295854_An Attention-Driven CNN-GRU Framework for Handwritten Character_Recognition
+An Attention-Driven CNN-GRU Framework for Handwritten Character_Recognition
